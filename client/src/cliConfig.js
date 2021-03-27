@@ -1,3 +1,4 @@
+const PRODUCTION_URL = 'https://hacker-chat-ja.herokuapp.com'
 export default class CliConfig {
     constructor({username, hostUri, room}) {
         this.username = username
